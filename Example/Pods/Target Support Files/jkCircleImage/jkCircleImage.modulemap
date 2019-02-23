@@ -1,0 +1,6 @@
+framework module jkCircleImage {
+  umbrella header "jkCircleImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

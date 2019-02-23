@@ -1,0 +1,6 @@
+framework module Pods_jkCircleImage_Tests {
+  umbrella header "Pods-jkCircleImage_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
